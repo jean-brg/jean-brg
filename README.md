@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi, my name is Jean Bourguignon and I am a teenager interested computer programming.
+I code in Python, Flask, HTML/CSS/JS, React, and would like to learn Swift to make IOS apps.
+Besides coding, I like self-improvement, meta-learning, gardening, business, and anything
+science related.
 
 <!--
 **jean-brg/jean-brg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
